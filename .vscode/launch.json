@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/jeniskaphotography1/Desktop/test.c",
-      "program": "/Users/jeniskaphotography1/Desktop/test.c/build/Debug/outDebug"
+      "cwd": "/Users/jeniskaphotography1/Desktop/test.c/t.c",
+      "program": "/Users/jeniskaphotography1/Desktop/test.c/t.c/build/Debug/outDebug"
     }
   ]
 }
